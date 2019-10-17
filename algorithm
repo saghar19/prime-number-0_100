@@ -1,0 +1,11 @@
+input n
+if n<0 print negative
+end
+if n=0 or n=1 printnot prime
+end
+dived=2
+if remainder n/div=0 print not prime
+end
+div=devid+1
+if devide>1/2 print prime
+end
